@@ -31,3 +31,5 @@ npx hardhat test
 ```
 npx hardhat run scripts/sample-script.js
 ```
+
+https://cryptomarketpool.com/sample-solidity-smart-contract/
